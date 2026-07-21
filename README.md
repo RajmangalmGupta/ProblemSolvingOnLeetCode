@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
