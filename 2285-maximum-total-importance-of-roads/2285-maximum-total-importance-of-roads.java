@@ -1,21 +1,15 @@
 class Solution {
     public long maximumImportance(int n, int[][] roads) {
-        int deg[]=findDegreeInUndirectedGraph(roads, n);
-        Arrays.sort(deg);
-        long sum=0;
-        for(int i=1;i<=n;i++){
-            sum += (long)i*deg[i-1];
+        long res = 0, cost = 1;
+        long[] conn = new long[n];
+        for (int[] road : roads) {
+            conn[road[0]]++;
+            conn[road[1]]++;
         }
-        return sum;
+        Arrays.sort(conn);
+        for (long con : conn) {
+            res += con * (cost++);
+        }
+        return res;
     }
-    public int[] findDegreeInUndirectedGraph(int edges[][], int nodes){
-        int degree[] = new int[nodes];
-        for(int edge[] : edges){
-            int u = edge[0];
-            int v = edge[1];
-            degree[u]++;
-            degree[v]++;
-        }
-        return degree;
-   }
 }
