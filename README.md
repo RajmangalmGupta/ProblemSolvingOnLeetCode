@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0733-flood-fill) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -66,14 +67,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0133-clone-graph) |
+| [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0133-clone-graph) |
+| [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
