@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0383-ransom-note) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/2285-maximum-total-importance-of-roads) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
