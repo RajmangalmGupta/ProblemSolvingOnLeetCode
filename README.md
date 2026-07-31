@@ -26,15 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0133-clone-graph) |
 | [0383-ransom-note](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0383-ransom-note) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0383-ransom-note) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/2285-maximum-total-importance-of-roads) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
