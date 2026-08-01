@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0733-flood-fill) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0133-clone-graph) |
 | [0383-ransom-note](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0383-ransom-note) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
