@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
@@ -106,4 +108,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
