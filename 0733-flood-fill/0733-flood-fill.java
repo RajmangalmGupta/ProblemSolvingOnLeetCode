@@ -19,6 +19,8 @@ class Solution {
         cols = image[0].length;
         OriginalColor = image[sr][sc];
         boolean[][] visited = new boolean[rows][cols];
+        Queue<Integer> queue = new LinkedList<>();
+        
         dfs(visited,sr,sc,color,image);
         return image;
     }
