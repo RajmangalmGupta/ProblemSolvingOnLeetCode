@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0130-surrounded-regions) |
 | [0486-predict-the-winner](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0877-stone-game) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0133-clone-graph) |
+| [0542-01-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0841-keys-and-rooms) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0994-rotting-oranges) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
