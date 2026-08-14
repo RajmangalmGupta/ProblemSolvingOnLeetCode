@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1765-map-of-highest-peak](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1765-map-of-highest-peak) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1765-map-of-highest-peak](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1765-map-of-highest-peak) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1765-map-of-highest-peak](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
 |  |
 | ------- |
