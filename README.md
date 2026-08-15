@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0130-surrounded-regions) |
+| [0209-minimum-size-subarray-sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Stack
 |  |
@@ -167,5 +169,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0904-fruit-into-baskets) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
