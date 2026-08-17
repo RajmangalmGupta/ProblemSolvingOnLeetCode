@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0133-clone-graph) |
+| [0202-happy-number](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0383-ransom-note) |
 | [0904-fruit-into-baskets](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0016-3sum-closest) |
+| [0202-happy-number](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0202-happy-number) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Binary Search
 |  |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
