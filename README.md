@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0542-01-matrix) |
