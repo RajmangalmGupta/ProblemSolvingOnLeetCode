@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0130-surrounded-regions) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0877-stone-game) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0695-max-area-of-island) |
