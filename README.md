@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Stack
 |  |
@@ -195,4 +196,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
