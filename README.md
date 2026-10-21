@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1207-unique-number-of-occurrences](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1046-last-stone-weight) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
