@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0542-01-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0383-ransom-note) |
 | [0904-fruit-into-baskets](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0506-relative-ranks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0506-relative-ranks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -223,8 +228,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RajmangalmGupta/ProblemSolvingOnLeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
